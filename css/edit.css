@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.add{
+    width: 300px;
+    height: 380px;
+    color: purple;
+    background-color: white;
+    margin-left: 40%;
+    margin-top: 10%;
+    text-align: center;
+}
+#adbox{
+    width: 250px;
+    height: 40px;
+    margin-top: 15px;
+    color: indigo;
+    border: none;
+    border-bottom: 1px solid black;
+}
+body{
+    background-color:grey;
+}
+#adbtn{
+    width: 250px;
+    height: 40px;
+    background-color: indigo;
+    color: white;
+    margin-top: 20px;
+}
